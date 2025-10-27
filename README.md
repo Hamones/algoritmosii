@@ -1,0 +1,2 @@
+# algoritmosii
+Quick vs Sort
